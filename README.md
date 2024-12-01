@@ -19,7 +19,7 @@ Welcome to the **Clientes API**, a RESTful web service designed for managing cus
 - **Spring Data JPA:** Simplified database operations with support for custom queries.
 - **H2 Database:** Lightweight, in-memory database for development and testing.
 - **Maven:** Dependency management and build tool.
-- **Java 21 (or your version):** Modern language features for better code maintainability.
+- **Java 21+ (or your version):** Modern language features for better code maintainability.
 
 ---
 
